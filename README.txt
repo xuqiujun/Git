@@ -1,1 +1,1 @@
-Git Tutorial v.01
+Git Tutorial v.02
